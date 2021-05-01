@@ -1,0 +1,34 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "gRPC Demo";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Welcome</h2>
+    <p>Just a simple demo showing the use of gRPC on .NET 5</p>
+</div>
+<br />
+<br />
+
+<div class="container">
+    <div class="row p-3">
+        <div class="col-4 pl-5">
+            <span>Your name:</span>
+        </div>
+        <div class="col-8">
+            <form method="post">
+                <input asp-for="Nombre" />
+                <button class="btn-primary">Send</button>
+            </form>
+        </div>
+    </div>
+    <div class="row p-3">
+        <div class="col-4 pl-5">
+            <span>Server response:</span>
+        </div>
+        <div class="col-8">
+            <span>@Model.Mensaje</span>
+        </div>
+    </div>
+</div>
