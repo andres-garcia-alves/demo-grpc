@@ -7,6 +7,6 @@ If you want, please send me your feedback about this app: andres.garcia.alves@gm
 
 ### Screenshots
 
-| Home |
+| Home Page |
 |------|
-| ![](screenshots/screen-01.png) |
+| ![](resources/screenshot-01.png) |
