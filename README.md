@@ -12,6 +12,8 @@ Just a simple demo showing the use of gRPC on .NET 5.
 
 &nbsp;
 
+### Version History
+
 v1.0 (2021.05.01) - Initial release.  
 
 &nbsp;
