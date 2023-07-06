@@ -2,11 +2,17 @@
 
 Just a simple demo showing the use of gRPC on .NET 5.
 
-This is the first public release of this proyect.
-If you want, please send me your feedback about this app: andres.garcia.alves@gmail.com
-
 ### Screenshots
 
-| Home Page |
-|------|
+| Home Page                        |
+|----------------------------------|
 | ![](resources/screenshot-01.png) |
+
+&nbsp;
+
+v1.0 (2021.05.01) - Initial release.  
+
+&nbsp;
+
+This source code is licensed under GPL v3.0  
+Please send me your feedback about this project: andres.garcia.alves@gmail.com
