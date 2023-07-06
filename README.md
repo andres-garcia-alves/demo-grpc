@@ -2,6 +2,8 @@
 
 Just a simple demo showing the use of gRPC on .NET 5.
 
+&nbsp;
+
 ### Screenshots
 
 | Home Page                        |
